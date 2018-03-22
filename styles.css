@@ -7,3 +7,12 @@ body {
   	font-family: 'Montserrat', sans-serif;
 
 }
+
+ul {
+  list-style: none;
+}
+
+
+#done:before {
+	content: "\2714\0020";
+}
